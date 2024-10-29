@@ -1,0 +1,55 @@
+.welcome {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20pt;
+    padding-top: 40px;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 16pt;
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    font-size: 14pt;
+    margin-left: 20px;
+}
+
+.search {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    font-size: 14pt;
+    align-items: center;
+}
+
+.name-highlight {
+    color: #2864b4;
+}
+
+.key-skills-chart {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.homepage {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.contact {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.email-link {
+    margin-left: 10px;
+}

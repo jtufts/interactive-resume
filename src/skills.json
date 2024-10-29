@@ -1,0 +1,305 @@
+[
+    {
+        "skillName": "React.js",
+        "experienceLevel": "Expert",
+        "yearsExperience": 6,
+        "usedAt": ["Nexient", "Ford Motor Company", "Allstate"],
+        "isExpertSkill": true,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "Javascript",
+        "experienceLevel": "Expert",
+        "yearsExperience": 6,
+        "usedAt": ["Nexient", "Ford Motor Company", "Allstate"],
+        "isExpertSkill": true,
+        "skillType": "Coding Language"
+    },
+    {
+        "skillName": "Node.JS",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 6,
+        "usedAt": ["Nexient", "Ford Motor Company", "Allstate"],
+        "isExpertSkill": true,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "HTML",
+        "experienceLevel": "Expert",
+        "yearsExperience": 7,
+        "usedAt": ["Nexient", "Ford Motor Company", "Allstate", "University of Michigan - Dearborn"],
+        "isExpertSkill": true,
+        "skillType": "Coding Language"
+    },
+    {
+        "skillName": "Angular.js",
+        "experienceLevel": "Novice",
+        "yearsExperience": 1,
+        "usedAt": [],
+        "isExpertSkill": false,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "CSS",
+        "experienceLevel": "Expert",
+        "yearsExperience": 7,
+        "usedAt": ["Nexient", "Ford Motor Company", "Allstate", "University of Michigan - Dearborn"],
+        "isExpertSkill": true,
+        "skillType": "Coding Language"
+    },
+    {
+        "skillName": "React Testing Library",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 4,
+        "usedAt": ["Nexient"],
+        "isExpertSkill": true,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "GitHub",
+        "experienceLevel": "Senior",
+        "yearsExperience": 6,
+        "usedAt": ["Nexient", "Ford Motor Company", "Allstate"],
+        "isExpertSkill": true,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "Jest",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 4,
+        "usedAt": ["Nexient"],
+        "isExpertSkill": true,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "Visual Studio Code",
+        "experienceLevel": "Expert",
+        "yearsExperience": 6,
+        "usedAt": ["Nexient"],
+        "isExpertSkill": true,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "Microsoft Windows",
+        "experienceLevel": "Senior",
+        "yearsExperience": 15,
+        "usedAt": ["Nexient", "Ford Motor Company", "Allstate", "University of Michigan - Dearborn", "Blue Care Network", "Plymouth High School"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "Macintosh OSX",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 10,
+        "usedAt": ["Nexient", "Plymouth High School"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "Microsoft Office Suite",
+        "experienceLevel": "Senior",
+        "yearsExperience": 15,
+        "usedAt": ["Plymouth High School", "University of Michigan - Dearborn", "Blue Care Network", "Ford Motor Company", "Allstate"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "C++",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 5,
+        "usedAt": ["University of Michigan - Dearborn"],
+        "isExpertSkill": false,
+        "skillType": "Coding Language"
+    },
+    {
+        "skillName": "Java",
+        "experienceLevel": "Senior",
+        "yearsExperience": 7,
+        "usedAt": ["Plymouth High School", "Ford Motor Company", "Allstate"],
+        "isExpertSkill": false,
+        "skillType": "Coding Language"
+    },
+    {
+        "skillName": "Visual Basic",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 5,
+        "usedAt": ["Blue Care Network"],
+        "isExpertSkill": false,
+        "skillType": "Coding Language"
+    },
+    {
+        "skillName": "SQL",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 2,
+        "usedAt": ["Allstate"],
+        "isExpertSkill": false,
+        "skillType": "Coding Language"
+    },
+    {
+        "skillName": "Python",
+        "experienceLevel": "Entry-Level",
+        "yearsExperience": 5,
+        "usedAt": [],
+        "isExpertSkill": false,
+        "skillType": "Coding Language"
+    },
+    {
+        "skillName": "React Toolkit",
+        "experienceLevel": "Novice",
+        "yearsExperience": 1,
+        "usedAt": ["Nexient"],
+        "isExpertSkill": false,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "Cypress",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 2,
+        "usedAt": ["Nexient"],
+        "isExpertSkill": false,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "Sass",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 3,
+        "usedAt": ["Nexient"],
+        "isExpertSkill": false,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "Puppeteer",
+        "experienceLevel": "Novice",
+        "yearsExperience": 2,
+        "usedAt": ["Nexient"],
+        "isExpertSkill": false,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "Typescript",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 5,
+        "usedAt": ["Nexient"],
+        "isExpertSkill": false,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "Spring",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 2,
+        "usedAt": ["Ford Motor Company", "Allstate"],
+        "isExpertSkill": false,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "RabbitMQ",
+        "experienceLevel": "Novice",
+        "yearsExperience": 1,
+        "UsedAt": ["Allstate"],
+        "isExpertSkill": false,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "IntelliJ IDEA",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 2,
+        "UsedAt": ["Ford Motor Company", "Allstate"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "NextJS",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 5,
+        "UsedAt": ["Nexient"],
+        "isExpertSkill": false,
+        "skillType": "Library"
+    },
+    {
+        "skillName": "IntelliJ DataGrip",
+        "experienceLevel": "Novice",
+        "yearsExperience": 1,
+        "UsedAt": ["Ford Motor Company"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "Microsoft Visual Studio",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 6,
+        "UsedAt": ["Nexient"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "JIRA",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 6,
+        "UsedAt": ["Nexient", "Ford Motor Company", "Allstate"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "Azure DevOps",
+        "experienceLevel": "Novice",
+        "yearsExperience": 2,
+        "UsedAt": ["Nexient"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "WinCVS",
+        "experienceLevel": "Novice",
+        "yearsExperience": 1,
+        "UsedAt": ["University of Michigan - Dearborn"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "Informatica",
+        "experienceLevel": "Novice",
+        "yearsExperience": 1,
+        "UsedAt": ["Blue Care Network"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "Atlassian",
+        "experienceLevel": "Novice",
+        "yearsExperience": 6,
+        "UsedAt": ["Nexient", "Ford Motor Company", "Allstate"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "GitLab",
+        "experienceLevel": "Mid-Level",
+        "yearsExperience": 5,
+        "UsedAt": ["Nexient"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "GitBash",
+        "experienceLevel": "Novice",
+        "yearsExperience": 6,
+        "UsedAt": ["Nexient", "Ford Motor Company", "Allstate"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "Pivotal Cloud Foundry",
+        "experienceLevel": "Novice",
+        "yearsExperience": 1,
+        "UsedAt": ["Ford Motor Company"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    },
+    {
+        "skillName": "Docker",
+        "experienceLevel": "Novice",
+        "yearsExperience": 3,
+        "UsedAt": ["University of Michigan - Dearborn"],
+        "isExpertSkill": false,
+        "skillType": "Software Application"
+    }]
